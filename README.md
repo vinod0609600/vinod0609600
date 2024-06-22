@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vinod
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning front end development
 - 📫 How to reach me sadulavinod06@gmail.com
 - 😄 Pronouns: ...
